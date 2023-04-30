@@ -1,1 +1,0 @@
-// Add a customer-code is not yet implemented.
